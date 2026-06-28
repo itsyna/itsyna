@@ -4,6 +4,12 @@
 
 ---
 
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=html,css,java)](https://skillicons.dev)
+
+</div>
+
 <!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorranyaline/lorranyaline/output/pacman-contribution-graph-dark.svg">
